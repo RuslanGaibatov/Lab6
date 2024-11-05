@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Головна сторінка</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Перелік завдань</h1>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="page1.html">
+                    <img src="images/task1_thumb.jpg" alt="Завдання 1" />
+                    Завдання 1: Шрифти
+                </a>
+            </li>
+            <li>
+                <a href="page2.html">
+                    <img src="images/task2_thumb.jpg" alt="Завдання 2" />
+                    Завдання 2: Фон
+                </a>
+            </li>
+            <li>
+                <a href="page3.html">
+                    <img src="images/task3_thumb.jpg" alt="Завдання 3" />
+                    Завдання 3: Рамки
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <footer>
+        <p>&copy; 2024 Створено за допомогою CSS</p>
+    </footer>
+</body>
+</html>
